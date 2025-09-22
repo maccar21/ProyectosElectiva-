@@ -1,0 +1,6 @@
+Interpretación (máx.200 palabras):
+
+La paleta dominante tiene HSV promedio (tono≈89.0, sat≈122), lo que sugiere tonos fríos/modulados y baja/moderada saturación.
+El audio muestra un centroide medio de 1994.4 Hz y energía RMS compatible con nivel contenido.
+
+Fusión normalizada (calidez=0.51, saturación=0.48, brillo=0.08, energía=0.45) sugiere una correspondencia entre color y timbre: colores más cálidos/saturados se asocian a un timbre más brillante y energético en esta pieza.

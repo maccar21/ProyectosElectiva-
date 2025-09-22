@@ -1,7 +1,6 @@
 import librosa
 import numpy as np
 import matplotlib.pyplot as plt
-from scipy.io import wavfile
 from scipy.fft import fft, fftfreq
 
 #Recording a Voice Sample
